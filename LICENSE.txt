@@ -1,0 +1,20 @@
+HTML Project License
+
+Version 1.0, August 2023
+
+TERMS AND CONDITIONS FOR FORKING, MODIFYING, AND SUBMITTING PULL REQUESTS
+
+1. You are permitted to fork and modify the HTML project covered by this license, provided that you adhere to the terms outlined below.
+
+2. If you modify the HTML project and wish to contribute your changes, you may submit a pull request to the original repository. By doing so, you grant the original author a non-exclusive, irrevocable, and royalty-free license to use, reproduce, modify, display, and distribute your contributions.
+
+3. Redistribution of the HTML project, whether forked, modified, or unmodified, must retain this license notice and the original copyright notice.
+
+4. This HTML project is provided "as is," without any warranties or conditions of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+5. In no event shall the author or copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the HTML project or the use or other dealings in the HTML project.
+
+By forking this HTML project and submitting a pull request, you agree to the terms and conditions outlined in this license.
+
+Oackland Toro
+Oackland0@gmail.com

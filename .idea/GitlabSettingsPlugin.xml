@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.gitlab.msciachero.GitlabSettingsState">
+    <option name="apiToken" value="glpat-Hc46hTEWYFj9n65sZQ6J" />
+    <option name="gitlabHost" value="https://gitlab.apathetic.app" />
+    <option name="globalApiKey" value="true" />
+    <option name="projectId" value="2" />
+  </component>
+</project>
