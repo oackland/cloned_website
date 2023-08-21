@@ -7,4 +7,5 @@ dist
 
 /404.html
 
-!/.htaccess
+/.htaccess
+/.editorconfig
