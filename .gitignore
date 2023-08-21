@@ -1,9 +1,0 @@
-
-node_modules
-dist
-.cache!/.editorconfig
-.idea
-404.html
-/404.html
-/.htaccess
-/.editorconfig
