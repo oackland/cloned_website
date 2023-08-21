@@ -5,7 +5,7 @@ node_modules
 dist
 .cache!/.editorconfig
 
-/404.html
+404.html
 
 /.htaccess
 /.editorconfig
